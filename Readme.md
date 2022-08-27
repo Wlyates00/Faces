@@ -1,5 +1,6 @@
 <h1>Faces</h1>
-A Phases inspired game
+This is a Phases inspired game made for mobile devices. 
+Created with Unity GameEngine
 
 
-<p>About</p>
+<h2>  Links</h2>
