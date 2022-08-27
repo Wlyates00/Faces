@@ -1,9 +1,9 @@
 <h1>Faces</h1>
 <p>This is a Phases inspired game made for mobile devices. </p>
-<p>Created with Unity GameEngine</p>
+<p>Created with Unity Game Engine</p>
 
 <h2>Technologies</h2>
-<li>Unity GameEngine</li>
+<li>Unity Game Engine</li>
 <li>C#</li>
 
 
