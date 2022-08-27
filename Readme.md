@@ -2,5 +2,9 @@
 This is a Phases inspired game made for mobile devices. 
 Created with Unity GameEngine
 
+<h2>Technologies</h2>
+Unity GameEngine
+C#
 
-<h2>  Links</h2>
+
+<h2>Game Links</h2>
