@@ -1,10 +1,10 @@
 <h1>Faces</h1>
-This is a Phases inspired game made for mobile devices. 
-Created with Unity GameEngine
+<p>This is a Phases inspired game made for mobile devices. </p>
+<p>Created with Unity GameEngine</p>
 
 <h2>Technologies</h2>
-Unity GameEngine
-C#
+<p>Unity GameEngine</p>
+<p>C#</p>
 
 
 <h2>Game Links</h2>
