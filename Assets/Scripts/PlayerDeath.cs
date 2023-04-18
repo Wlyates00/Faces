@@ -50,6 +50,11 @@ namespace LY
             SceneManager.LoadScene(0);
         }
 
+        public void MenuButton()
+        {
+            SceneManager.LoadScene(1);
+        }
+
         IEnumerator UIDelay()
         {
             yield return new WaitForSeconds(delay);
